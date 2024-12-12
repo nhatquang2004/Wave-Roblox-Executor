@@ -15,6 +15,7 @@ To get started with Wave Executor, follow these simple steps:
 
 
 
+
 ![Wave Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
